@@ -1,0 +1,9 @@
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\bin\Debug\19K0206_Q1.exe.config
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\bin\Debug\19K0206_Q1.exe
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\bin\Debug\19K0206_Q1.pdb
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\obj\Debug\19K0206_Q1.csproj.AssemblyReference.cache
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\obj\Debug\_19K0206_Q1.ProjectInstaller.resources
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\obj\Debug\19K0206_Q1.csproj.GenerateResource.cache
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\obj\Debug\19K0206_Q1.csproj.CoreCompileInputs.cache
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\obj\Debug\19K0206_Q1.exe
+C:\Users\mtaha\source\repos\19K0206_Q1\19K0206_Q1\obj\Debug\19K0206_Q1.pdb

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "_19K0206_Q4": {
+      "commandName": "Project",
+      "commandLineArgs": "host start --port 7071 --pause-on-error"
+    }
+  }
+}
